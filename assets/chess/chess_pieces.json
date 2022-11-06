@@ -1,0 +1,255 @@
+{
+	"frames": {
+		"B_Bishop.png": {
+			"frame": {
+				"x": 1,
+				"y": 1,
+				"w": 16,
+				"h": 32
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 32
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 32
+			}
+		},
+		"B_King.png": {
+			"frame": {
+				"x": 19,
+				"y": 1,
+				"w": 16,
+				"h": 32
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 32
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 32
+			}
+		},
+		"B_Knight.png": {
+			"frame": {
+				"x": 37,
+				"y": 1,
+				"w": 16,
+				"h": 32
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 32
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 32
+			}
+		},
+		"B_Pawn.png": {
+			"frame": {
+				"x": 55,
+				"y": 1,
+				"w": 16,
+				"h": 32
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 32
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 32
+			}
+		},
+		"B_Queen.png": {
+			"frame": {
+				"x": 1,
+				"y": 35,
+				"w": 16,
+				"h": 32
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 32
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 32
+			}
+		},
+		"B_Rook.png": {
+			"frame": {
+				"x": 19,
+				"y": 35,
+				"w": 16,
+				"h": 32
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 32
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 32
+			}
+		},
+		"W_Bishop.png": {
+			"frame": {
+				"x": 37,
+				"y": 35,
+				"w": 16,
+				"h": 32
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 32
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 32
+			}
+		},
+		"W_King.png": {
+			"frame": {
+				"x": 55,
+				"y": 35,
+				"w": 16,
+				"h": 32
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 32
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 32
+			}
+		},
+		"W_Knight.png": {
+			"frame": {
+				"x": 73,
+				"y": 1,
+				"w": 16,
+				"h": 32
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 32
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 32
+			}
+		},
+		"W_Pawn.png": {
+			"frame": {
+				"x": 73,
+				"y": 35,
+				"w": 16,
+				"h": 32
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 32
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 32
+			}
+		},
+		"W_Queen.png": {
+			"frame": {
+				"x": 1,
+				"y": 69,
+				"w": 16,
+				"h": 32
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 32
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 32
+			}
+		},
+		"W_Rook.png": {
+			"frame": {
+				"x": 19,
+				"y": 69,
+				"w": 16,
+				"h": 32
+			},
+			"rotated": false,
+			"trimmed": false,
+			"spriteSourceSize": {
+				"x": 0,
+				"y": 0,
+				"w": 16,
+				"h": 32
+			},
+			"sourceSize": {
+				"w": 16,
+				"h": 32
+			}
+		}
+	},
+	"meta": {
+		"app": "http://www.codeandweb.com/texturepacker",
+		"version": "1.0",
+		"image": "chess_pieces.png",
+		"format": "RGBA8888",
+		"size": {
+			"w": 90,
+			"h": 102
+		},
+		"scale": "1"
+	}
+}

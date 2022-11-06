@@ -1,0 +1,2 @@
+# Dzienniki z Piwnic
+Kod gry "Dzienniki z Piwnic" napisanej przez Oliwię Poćwiardowską, Włodzimierza Rywkę i Macieja Rutkowskiego w ramach Hackathonu zorganizowanego przez Praktyczne Koło Programistów na Wydziale Fizyki, Astronomii i Informatyki Stosowanej UMK.
